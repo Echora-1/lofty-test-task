@@ -1,1 +1,1 @@
-# lofty-test-task-
+# lofty-test-task
