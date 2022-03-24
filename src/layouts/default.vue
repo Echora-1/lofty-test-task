@@ -60,6 +60,7 @@ export default {
       try {
         await signUp({ username: this.username, password: this.password });
       } catch (err) {
+        // eslint-disable-next-line no-console
         console.log(`Sign up error: ${err}`);
       }
       this.closeSignUpModal();
