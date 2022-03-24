@@ -1,4 +1,4 @@
-# lofty-test-task
+# :pencil: lofty-test-task
 
 ## Задание 1
 Для запуска выполните команды
