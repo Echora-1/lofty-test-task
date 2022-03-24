@@ -12,4 +12,4 @@ npm run serve
 Расположено в task2/index.js
 
 ## Задание 3
-Расположено в папке task3/index.js
+Расположено в task3/index.js
