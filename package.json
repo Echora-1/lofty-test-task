@@ -43,6 +43,7 @@
       "parser": "babel-eslint"
     },
     "rules": {
+      "linebreak-style":0,
       "template-curly-spacing": "off",
       "indent": "off"
     }
