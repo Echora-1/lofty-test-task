@@ -62,7 +62,6 @@ export default {
       } catch (err) {
         console.log(`Sign up error: ${err}`);
       }
-
       this.closeSignUpModal();
     },
 
@@ -102,7 +101,7 @@ nav {
   }
 }
 
-.send-btn{
+.send-btn {
   margin: 20px auto 0;
   background: #F4CC3E;
   color: #171717;

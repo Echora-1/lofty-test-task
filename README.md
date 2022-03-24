@@ -1,24 +1,15 @@
 # lofty-test-task
 
-## Project setup
+## Задание 1
+Для запуска выполните команды
 ```
 npm install
 ```
-
-### Compiles and hot-reloads for development
 ```
 npm run serve
 ```
+## Задание 2
+Расположено в task2/index.js
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Задание 3
+Расположено в папке task3/index.js
